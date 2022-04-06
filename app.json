@@ -1,5 +1,5 @@
 {
-  "name": "t3f5",
+  "name": "mcbstream",
   "description": "A Pyrogram Telegram bot to access Telegram Files via the web.",
   "keywords": [
       "telegram",
@@ -11,9 +11,9 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/EverythingSuckz/TG-FileStreamBot",
+  "repository": "https://github.com/zoravar08/TG-FileStreamBot",
   "success_url": "/",
-  "website": "stream.wrench.gq",
+  "website": "zoravar.ddns.net",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
