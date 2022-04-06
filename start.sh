@@ -1,3 +1,3 @@
-git clone "https://github.com/EverythingSuckz/TG-FileStreamBot" tgfs
-cd tgfs
+git clone "https://github.com/zoravar08/TG-FileStreamBot" mbcstream
+cd mbcstream
 python -m WebStreamer
