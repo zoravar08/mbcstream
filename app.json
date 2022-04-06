@@ -13,7 +13,7 @@
     ],
   "repository": "https://github.com/zoravar08/TG-FileStreamBot",
   "success_url": "/",
-  "website": "zoravar.ddns.net",
+  "website": "https://mbcstream.herokuapp.com/",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
